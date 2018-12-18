@@ -1,0 +1,1 @@
+Running Euclidean on "Stack Overflow" is a good example
